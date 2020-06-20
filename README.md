@@ -15,5 +15,5 @@ trail          - bin/
 
 Plots: 
 
-zig-zag test plots
+zig-zag test plots 20-20
 
