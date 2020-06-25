@@ -7,7 +7,7 @@ Put 'OUTPUT.mat' file and glance.py file in same folder. run it in spyder.
 
 ###################################################################################
 
-Folders descriptino:
+*************Folders description:**************
 
 Litrature Survey - it has 20 journal papers for different type of parameter idendification.
 ##################################################################################
