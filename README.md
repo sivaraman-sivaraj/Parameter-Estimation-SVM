@@ -30,12 +30,12 @@ codes for covariance matrix of surge, sway, yaw  hydrodynamic derivatives.
 
 ################################################################################
 
-*************Graph-plots - ***********
+*************Graph-plots -***********
 
 codes for graph plotting
 
 ###############################################################################
 
-*********Others - **************
+*********Others -**************
 
 codes for Standard deviation of input data and others important files. 
